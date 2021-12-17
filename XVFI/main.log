@@ -1,0 +1,2428 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.8.13)  18 OCT 2021 17:16
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (d:/Software/texlive/texmf-dist/tex/latex/bea
+mer/beamer.cls
+Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
+(d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (d:/Softwa
+re/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count167
+)
+\beamer@tempbox=\box45
+\beamer@tempcount=\count168
+\c@beamerpauses=\count169
+(d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count170
+\beamer@minimum=\count171
+\beamer@decode@box=\box46
+)
+\beamer@commentbox=\box47
+\beamer@modecount=\count172
+) (d:/Software/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+(d:/Software/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\headdp=\dimen134
+\footheight=\dimen135
+\sidebarheight=\dimen136
+\beamer@tempdim=\dimen137
+\beamer@finalheight=\dimen138
+\beamer@animht=\dimen139
+\beamer@animdp=\dimen140
+\beamer@animwd=\dimen141
+\beamer@leftmargin=\dimen142
+\beamer@rightmargin=\dimen143
+\beamer@leftsidebar=\dimen144
+\beamer@rightsidebar=\dimen145
+\beamer@boxsize=\dimen146
+\beamer@vboxoffset=\dimen147
+\beamer@descdefault=\dimen148
+\beamer@descriptionwidth=\dimen149
+\beamer@lastskip=\skip47
+\beamer@areabox=\box48
+\beamer@animcurrent=\box49
+\beamer@animshowbox=\box50
+\beamer@sectionbox=\box51
+\beamer@logobox=\box52
+\beamer@linebox=\box53
+\beamer@sectioncount=\count173
+\beamer@subsubsectionmax=\count174
+\beamer@subsectionmax=\count175
+\beamer@sectionmax=\count176
+\beamer@totalheads=\count177
+\beamer@headcounter=\count178
+\beamer@partstartpage=\count179
+\beamer@sectionstartpage=\count180
+\beamer@subsectionstartpage=\count181
+\beamer@animationtempa=\count182
+\beamer@animationtempb=\count183
+\beamer@xpos=\count184
+\beamer@ypos=\count185
+\beamer@ypos@offset=\count186
+\beamer@showpartnumber=\count187
+\beamer@currentsubsection=\count188
+\beamer@coveringdepth=\count189
+\beamer@sectionadjust=\count190
+\beamer@tocsectionnumber=\count191
+(d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (d:/Soft
+ware/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+))
+\beamer@paperwidth=\skip48
+\beamer@paperheight=\skip49
+(d:/Software/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(d:/Software/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks16
+) (d:/Software/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+) (d:/Software/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (d:/Soft
+ware/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(d:/Software/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(d:/Software/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (d:/Software/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+(d:/Software/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+) (d:/Software/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (d:/Soft
+ware/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (d:/Software/texlive
+/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen160
+\pgfutil@tempdimb=\dimen161
+
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.
+tex)) (d:/Software/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.d
+ef
+\pgfutil@abb=\box54
+(d:/Software/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (d:/Software/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (d
+:/Software/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+)) (d:/Software/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.
+tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen162
+\pgf@y=\dimen163
+\pgf@xa=\dimen164
+\pgf@ya=\dimen165
+\pgf@xb=\dimen166
+\pgf@yb=\dimen167
+\pgf@xc=\dimen168
+\pgf@yc=\dimen169
+\pgf@xd=\dimen170
+\pgf@yd=\dimen171
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count195
+\c@pgf@countb=\count196
+\c@pgf@countc=\count197
+\c@pgf@countd=\count198
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count199
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.d
+ef
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code
+.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count266
+\pgfsyssoftpath@bigbuffer@items=\count267
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code
+.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (d:/Software/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(d:/Software/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (d:/Softw
+are/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (d:/Software/t
+exlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (d:/Software/texli
+ve/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen172
+\pgfmath@count=\count268
+\pgfmath@box=\box55
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+) (d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.te
+x
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.cod
+e.tex)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonome
+tric.code.tex)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.co
+de.tex)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compariso
+n.code.tex)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code
+.tex)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.cod
+e.tex)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code
+.tex)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerar
+ithmetics.code.tex))) (d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfm
+athfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count269
+)) (d:/Software/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.t
+ex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen173
+\pgf@picmaxx=\dimen174
+\pgf@picminy=\dimen175
+\pgf@picmaxy=\dimen176
+\pgf@pathminx=\dimen177
+\pgf@pathmaxx=\dimen178
+\pgf@pathminy=\dimen179
+\pgf@pathmaxy=\dimen180
+\pgf@xx=\dimen181
+\pgf@xy=\dimen182
+\pgf@yx=\dimen183
+\pgf@yy=\dimen184
+\pgf@zx=\dimen185
+\pgf@zy=\dimen186
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct
+.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen187
+\pgf@path@lasty=\dimen188
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.cod
+e.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen189
+\pgf@shorten@start@additional=\dimen190
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.t
+ex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count270
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.
+code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen191
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformatio
+ns.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen192
+\pgf@pt@y=\dimen193
+\pgf@pt@temp=\dimen194
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.te
+x
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.
+tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessin
+g.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.t
+ex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen195
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.te
+x
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen196
+\pgf@sys@shading@range@num=\count271
+\pgf@shadingcount=\count272
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.te
+x
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code
+.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box59
+))
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.t
+ex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.
+code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code
+.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (d:/Software/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.te
+x
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (d:/Software/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count273
+\XC@countmixins=\count274
+) (d:/Software/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+(d:/Software/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (d:/Software/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)) (d:/Software/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+(d:/Software/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (d:/Software/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (d:/Software/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (d:/Software/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (d:/Software/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (d:/Software/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (d:/Software/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (d:/Software/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen197
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
+(d:/Software/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (d:/Software/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (d:/Software/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count277
+Package hyperref Info: Option `bookmarks' set `true' on input line 4421.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4421.
+Package hyperref Info: Option `implicit' set `false' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count278
+(d:/Software/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen198
+(d:/Software/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+(d:/Software/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count279
+\Field@Width=\dimen199
+\Fld@charsize=\dimen256
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+\Hy@abspage=\count280
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(d:/Software/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+(d:/Software/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count281
+\c@bookmark@seq@number=\count282
+(d:/Software/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(d:/Software/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (d:/
+Software/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (d:/S
+oftware/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty (d:/Software/tex
+live/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(d:/Software/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks27
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (d:/Software/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2020/01/31
+(d:/Software/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+))) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (
+d:/Software/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+)) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (d:/Sof
+tware/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (d:/Softwar
+e/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count283
+\beamer@lastskipcover=\skip50
+\beamer@trivlistdepth=\count284
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (d:/Sof
+tware/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count285
+\c@part=\count286
+\c@section=\count287
+\c@subsection=\count288
+\c@subsubsection=\count289
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box60
+\beamer@frametitlebox=\box61
+\beamer@zoombox=\box62
+\beamer@zoomcount=\count290
+\beamer@zoomframecount=\count291
+\beamer@frametextheight=\dimen257
+\c@subsectionslide=\count292
+\beamer@frametopskip=\skip51
+\beamer@framebottomskip=\skip52
+\beamer@frametopskipautobreak=\skip53
+\beamer@framebottomskipautobreak=\skip54
+\beamer@envbody=\toks28
+\framewidth=\dimen258
+\c@framenumber=\count293
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box63
+\beamer@autobreakcount=\count294
+\beamer@autobreaklastheight=\dimen259
+\beamer@frametitletoks=\toks29
+\beamer@framesubtitletoks=\toks30
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.st
+y
+\beamer@footins=\box64
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (d:/Sof
+tware/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box65
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (d:/Softw
+are/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks31
+(d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (d:
+/Software/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box66
+\bmb@colorbox=\box67
+\bmb@boxshadow=\box68
+\bmb@boxshadowball=\box69
+\bmb@boxshadowballlarge=\box70
+\bmb@temp=\dimen260
+\bmb@dima=\dimen261
+\bmb@dimb=\dimen262
+\bmb@prevheight=\dimen263
+)
+\beamer@blockheadheight=\dimen264
+)) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.st
+y (d:/Software/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks32
+)
+\c@figure=\count295
+\c@table=\count296
+\abovecaptionskip=\skip55
+\belowcaptionskip=\skip56
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen265
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (d:/S
+oftware/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip57
+For additional information on amsmath, use the `?' option.
+(d:/Software/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(d:/Software/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen266
+)) (d:/Software/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen267
+) (d:/Software/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count297
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count298
+\leftroot@=\count299
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count300
+\DOTSCASE@=\count301
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box71
+\strutbox@=\box72
+\big@size=\dimen268
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count302
+\c@MaxMatrixCols=\count303
+\dotsspace@=\muskip17
+\c@parentequation=\count304
+\dspbrk@lvl=\count305
+\tag@help=\toks34
+\row@=\count306
+\column@=\count307
+\maxfields@=\count308
+\andhelp@=\toks35
+\eqnshift@=\dimen269
+\alignsep@=\dimen270
+\tagshift@=\dimen271
+\tagwidth@=\dimen272
+\totwidth@=\dimen273
+\lineht@=\dimen274
+\@envbody=\toks36
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (d:/Software/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks38
+\thm@bodyfont=\toks39
+\thm@headfont=\toks40
+\thm@notefont=\toks41
+\thm@headpunct=\toks42
+\thm@preskip=\skip60
+\thm@postskip=\skip61
+\thm@headsep=\skip62
+\dth@everypar=\toks43
+)
+\c@theorem=\count309
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (d:/S
+oftware/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (d:/Software
+/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (d:/Software/t
+exlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (d:/Software/te
+xlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen275
+\beamer@dimb=\dimen276
+) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)
+)) (d:/Software/texlive/texmf-dist/tex/latex/beamer/beamerthemeBoadilla.sty (d:
+/Software/texlive/texmf-dist/tex/latex/beamer/beamercolorthemerose.sty) (d:/Sof
+tware/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (d:/Soft
+ware/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.sty) (d:/Softw
+are/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)) (d:/Sof
+tware/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+(d:/Software/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count310
+(d:/Software/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (d:/Software/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count311
+\c@listtotal=\count312
+\c@listcount=\count313
+\c@liststart=\count314
+\c@liststop=\count315
+\c@citecount=\count316
+\c@citetotal=\count317
+\c@multicitecount=\count318
+\c@multicitetotal=\count319
+\c@instcount=\count320
+\c@maxnames=\count321
+\c@minnames=\count322
+\c@maxitems=\count323
+\c@minitems=\count324
+\c@citecounter=\count325
+\c@maxcitecounter=\count326
+\c@savedcitecounter=\count327
+\c@uniquelist=\count328
+\c@uniquename=\count329
+\c@refsection=\count330
+\c@refsegment=\count331
+\c@maxextratitle=\count332
+\c@maxextratitleyear=\count333
+\c@maxextraname=\count334
+\c@maxextradate=\count335
+\c@maxextraalpha=\count336
+\c@abbrvpenalty=\count337
+\c@highnamepenalty=\count338
+\c@lownamepenalty=\count339
+\c@maxparens=\count340
+\c@parenlevel=\count341
+\blx@tempcnta=\count342
+\blx@tempcntb=\count343
+\blx@tempcntc=\count344
+\blx@maxsection=\count345
+\blx@maxsegment@0=\count346
+\blx@notetype=\count347
+\blx@parenlevel@text=\count348
+\blx@parenlevel@foot=\count349
+\blx@sectionciteorder@0=\count350
+\blx@entrysetcounter=\count351
+\labelnumberwidth=\skip63
+\labelalphawidth=\skip64
+\biblabelsep=\skip65
+\bibitemsep=\skip66
+\bibnamesep=\skip67
+\bibinitsep=\skip68
+\bibparsep=\skip69
+\bibhang=\skip70
+\blx@bcfin=\read3
+\blx@bcfout=\write5
+\blx@langwohyphens=\language86
+\c@mincomprange=\count352
+\c@maxcomprange=\count353
+\c@mincompwidth=\count354
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+(d:/Software/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count355
+\c@savedafterword=\count356
+\c@annotator=\count357
+\c@savedannotator=\count358
+\c@author=\count359
+\c@savedauthor=\count360
+\c@bookauthor=\count361
+\c@savedbookauthor=\count362
+\c@commentator=\count363
+\c@savedcommentator=\count364
+\c@editor=\count365
+\c@savededitor=\count366
+\c@editora=\count367
+\c@savededitora=\count368
+\c@editorb=\count369
+\c@savededitorb=\count370
+\c@editorc=\count371
+\c@savededitorc=\count372
+\c@foreword=\count373
+\c@savedforeword=\count374
+\c@holder=\count375
+\c@savedholder=\count376
+\c@introduction=\count377
+\c@savedintroduction=\count378
+\c@namea=\count379
+\c@savednamea=\count380
+\c@nameb=\count381
+\c@savednameb=\count382
+\c@namec=\count383
+\c@savednamec=\count384
+\c@translator=\count385
+\c@savedtranslator=\count386
+\c@shortauthor=\count387
+\c@savedshortauthor=\count388
+\c@shorteditor=\count389
+\c@savedshorteditor=\count390
+\c@labelname=\count391
+\c@savedlabelname=\count392
+\c@institution=\count393
+\c@savedinstitution=\count394
+\c@lista=\count395
+\c@savedlista=\count396
+\c@listb=\count397
+\c@savedlistb=\count398
+\c@listc=\count399
+\c@savedlistc=\count400
+\c@listd=\count401
+\c@savedlistd=\count402
+\c@liste=\count403
+\c@savedliste=\count404
+\c@listf=\count405
+\c@savedlistf=\count406
+\c@location=\count407
+\c@savedlocation=\count408
+\c@organization=\count409
+\c@savedorganization=\count410
+\c@origlocation=\count411
+\c@savedoriglocation=\count412
+\c@origpublisher=\count413
+\c@savedorigpublisher=\count414
+\c@publisher=\count415
+\c@savedpublisher=\count416
+\c@language=\count417
+\c@savedlanguage=\count418
+\c@origlanguage=\count419
+\c@savedoriglanguage=\count420
+\c@pageref=\count421
+\c@savedpageref=\count422
+\shorthandwidth=\skip71
+\shortjournalwidth=\skip72
+\shortserieswidth=\skip73
+\shorttitlewidth=\skip74
+\shortauthorwidth=\skip75
+\shorteditorwidth=\skip76
+\locallabelnumberwidth=\skip77
+\locallabelalphawidth=\skip78
+\localshorthandwidth=\skip79
+\localshortjournalwidth=\skip80
+\localshortserieswidth=\skip81
+\localshorttitlewidth=\skip82
+\localshortauthorwidth=\skip83
+\localshorteditorwidth=\skip84
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+(d:/Software/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+(d:/Software/texlive/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+(d:/Software/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count423
+\c@textcitetotal=\count424
+\c@textcitemaxnames=\count425
+\c@biburlbigbreakpenalty=\count426
+\c@biburlbreakpenalty=\count427
+\c@biburlnumpenalty=\count428
+\c@biburlucpenalty=\count429
+\c@biburllcpenalty=\count430
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count431
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+(d:/Software/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+(d:/Software/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count432
+\c@bbx:relatedtotal=\count433
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+(d:/Software/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+(d:/Software/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)) (d:/Software/texlive/texmf-dist/tex/latex/animate/animate.sty
+Package: animate 2020/03/25 PDF & SVG animations from files and inline graphics
+
+(d:/Software/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(d:/Software/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (d:/Software/te
+xlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks44
+\XKV@tempa@toks=\toks45
+)
+\XKV@depth=\count434
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (d:/Software/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) (d:/Software/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count435
+\calc@Bcount=\count436
+\calc@Adimen=\dimen277
+\calc@Bdimen=\dimen278
+\calc@Askip=\skip85
+\calc@Bskip=\skip86
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count437
+\calc@Cskip=\skip87
+) (d:/Software/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-03-03 v2.29 Module abspage for zref (HO)
+(d:/Software/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-03-03 v2.29 Module base for zref (HO)
+Package zref Info: New property list: main on input line 763.
+Package zref Info: New property: default on input line 764.
+Package zref Info: New property: page on input line 765.
+)
+\c@abspage=\count438
+Package zref Info: New property: abspage on input line 66.
+) (d:/Software/texlive/texmf-dist/tex/latex/media9/pdfbase.sty (d:/Software/tex
+live/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+(d:/Software/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count439
+\l__pdf_internal_box=\box73
+)) (d:/Software/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+)
+Package: pdfbase 2020/03/25 v0.41 driver independent access to low-level PDF fe
+atures
+\g_pbs_page_int=\count440
+\g_pbs_oc_int=\count441
+) (d:/Software/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+Package: ocgbase 2019/11/04 v0.17 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count442
+)
+\@anim@box=\box74
+\@anim@measbox=\box75
+\@anim@tmpdima=\dimen279
+\@anim@tmpdimb=\dimen280
+\@anim@num=\count443
+\@anim@curframe=\count444
+\@anim@curframe@zb=\count445
+\@anim@resizeflags=\count446
+\@anim@skipfram=\count447
+\@anim@mulframecnt=\count448
+\@anim@@tmlnfile=\read4
+\@anim@tmpcnt=\count449
+\c@@anim@ltxcnt=\count450
+\@anim@curlayer=\count451
+\@anim@lineno=\count452
+\@anim@curfield=\count453
+\@anim@@resizeflags=\count454
+)
+\@quotelevel=\count455
+\@quotereset=\count456
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=342.2953pt
+* \textheight=244.6939pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(d:/Software/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count457
+\scratchdimen=\dimen281
+\scratchbox=\box76
+\nofMPsegments=\count458
+\nofMParguments=\count459
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count460
+\MPscratchDim=\dimen282
+\MPnumerator=\count461
+\makeMPintoPDFobject=\count462
+\everyMPtoPDFconversion=\toks47
+) (d:/Software/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+(d:/Software/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box77
+Package hyperref Info: Link coloring OFF on input line 19.
+(d:/Software/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+(d:/Software/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (d:/Software/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count463
+)
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
+(./main.out) (./main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 19.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 19.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 19.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 19.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 19.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 19.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
+9.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
+9.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 19.
+
+(d:/Software/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionar
+y-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(d:/Software/texlive/texmf-dist/tex/latex/translator/translator-bibliography-di
+ctionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(d:/Software/texlive/texmf-dist/tex/latex/translator/translator-environment-dic
+tionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(d:/Software/texlive/texmf-dist/tex/latex/translator/translator-months-dictiona
+ry-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(d:/Software/texlive/texmf-dist/tex/latex/translator/translator-numbers-diction
+ary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(d:/Software/texlive/texmf-dist/tex/latex/translator/translator-theorem-diction
+ary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(d:/Software/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout5 = `main-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+(./main.bbl)
+Package biblatex Info: Reference section=0 on input line 19.
+Package biblatex Info: Reference segment=0 on input line 19.
+(./main.nav) [1
+
+{d:/Software/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<images/title.png, id=47, 350.30875pt x 104.39pt>
+File: images/title.png Graphic file (type png)
+<use images/title.png>
+Package pdftex.def Info: images/title.png  used on input line 26.
+(pdftex.def)             Requested size: 256.72147pt x 76.50668pt.
+[2
+
+ <./images/title.png>]
+<images/inter_framework.png, id=80, 750.83194pt x 429.2547pt>
+File: images/inter_framework.png Graphic file (type png)
+<use images/inter_framework.png>
+Package pdftex.def Info: images/inter_framework.png  used on input line 42.
+(pdftex.def)             Requested size: 239.60567pt x 136.97786pt.
+[3
+
+ <./images/inter_framework.png>]
+<images/Optical_flow_example.png, id=110, 497.86pt x 230.8625pt>
+File: images/Optical_flow_example.png Graphic file (type png)
+<use images/Optical_flow_example.png>
+Package pdftex.def Info: images/Optical_flow_example.png  used on input line 64
+.
+(pdftex.def)             Requested size: 136.91603pt x 63.48914pt.
+<./images/temp/temp1.png, id=111, 738.76pt x 104.39pt>
+File: ./images/temp/temp1.png Graphic file (type png)
+<use ./images/temp/temp1.png>
+Package pdftex.def Info: ./images/temp/temp1.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp1.png> <a0,fr0>
+<./images/temp/temp2.png, id=122, 738.76pt x 104.39pt>
+File: ./images/temp/temp2.png Graphic file (type png)
+<use ./images/temp/temp2.png>
+Package pdftex.def Info: ./images/temp/temp2.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp2.png> <a0,fr1>
+<./images/temp/temp3.png, id=133, 738.76pt x 104.39pt>
+File: ./images/temp/temp3.png Graphic file (type png)
+<use ./images/temp/temp3.png>
+Package pdftex.def Info: ./images/temp/temp3.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp3.png> <a0,fr2>
+<./images/temp/temp4.png, id=144, 738.76pt x 104.39pt>
+File: ./images/temp/temp4.png Graphic file (type png)
+<use ./images/temp/temp4.png>
+Package pdftex.def Info: ./images/temp/temp4.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp4.png> <a0,fr3>
+<./images/temp/temp5.png, id=155, 738.76pt x 104.39pt>
+File: ./images/temp/temp5.png Graphic file (type png)
+<use ./images/temp/temp5.png>
+Package pdftex.def Info: ./images/temp/temp5.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp5.png> <a0,fr4>
+<./images/temp/temp6.png, id=167, 738.76pt x 104.39pt>
+File: ./images/temp/temp6.png Graphic file (type png)
+<use ./images/temp/temp6.png>
+Package pdftex.def Info: ./images/temp/temp6.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp6.png> <a0,fr5>
+<./images/temp/temp7.png, id=178, 738.76pt x 104.39pt>
+File: ./images/temp/temp7.png Graphic file (type png)
+<use ./images/temp/temp7.png>
+Package pdftex.def Info: ./images/temp/temp7.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp7.png> <a0,fr6>
+<./images/temp/temp8.png, id=189, 738.76pt x 104.39pt>
+File: ./images/temp/temp8.png Graphic file (type png)
+<use ./images/temp/temp8.png>
+Package pdftex.def Info: ./images/temp/temp8.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp8.png> <a0,fr7>
+<./images/temp/temp9.png, id=200, 738.76pt x 104.39pt>
+File: ./images/temp/temp9.png Graphic file (type png)
+<use ./images/temp/temp9.png>
+Package pdftex.def Info: ./images/temp/temp9.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp9.png> <a0,fr8>
+<./images/temp/temp10.png, id=211, 738.76pt x 104.39pt>
+File: ./images/temp/temp10.png Graphic file (type png)
+<use ./images/temp/temp10.png>
+Package pdftex.def Info: ./images/temp/temp10.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp10.png> <a0,fr9>
+<./images/temp/temp11.png, id=222, 738.76pt x 104.39pt>
+File: ./images/temp/temp11.png Graphic file (type png)
+<use ./images/temp/temp11.png>
+Package pdftex.def Info: ./images/temp/temp11.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp11.png> <a0,fr10>
+<./images/temp/temp12.png, id=233, 738.76pt x 104.39pt>
+File: ./images/temp/temp12.png Graphic file (type png)
+<use ./images/temp/temp12.png>
+Package pdftex.def Info: ./images/temp/temp12.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp12.png> <a0,fr11>
+<./images/temp/temp13.png, id=244, 738.76pt x 104.39pt>
+File: ./images/temp/temp13.png Graphic file (type png)
+<use ./images/temp/temp13.png>
+Package pdftex.def Info: ./images/temp/temp13.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp13.png> <a0,fr12>
+<./images/temp/temp14.png, id=255, 738.76pt x 104.39pt>
+File: ./images/temp/temp14.png Graphic file (type png)
+<use ./images/temp/temp14.png>
+Package pdftex.def Info: ./images/temp/temp14.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp14.png> <a0,fr13>
+<./images/temp/temp15.png, id=266, 738.76pt x 104.39pt>
+File: ./images/temp/temp15.png Graphic file (type png)
+<use ./images/temp/temp15.png>
+Package pdftex.def Info: ./images/temp/temp15.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp15.png> <a0,fr14>
+<./images/temp/temp16.png, id=277, 738.76pt x 104.39pt>
+File: ./images/temp/temp16.png Graphic file (type png)
+<use ./images/temp/temp16.png>
+Package pdftex.def Info: ./images/temp/temp16.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp16.png> <a0,fr15>
+<./images/temp/temp17.png, id=288, 738.76pt x 104.39pt>
+File: ./images/temp/temp17.png Graphic file (type png)
+<use ./images/temp/temp17.png>
+Package pdftex.def Info: ./images/temp/temp17.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp17.png> <a0,fr16>
+<./images/temp/temp18.png, id=299, 738.76pt x 104.39pt>
+File: ./images/temp/temp18.png Graphic file (type png)
+<use ./images/temp/temp18.png>
+Package pdftex.def Info: ./images/temp/temp18.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp18.png> <a0,fr17>
+<./images/temp/temp19.png, id=310, 738.76pt x 104.39pt>
+File: ./images/temp/temp19.png Graphic file (type png)
+<use ./images/temp/temp19.png>
+Package pdftex.def Info: ./images/temp/temp19.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp19.png> <a0,fr18>
+<./images/temp/temp20.png, id=321, 738.76pt x 104.39pt>
+File: ./images/temp/temp20.png Graphic file (type png)
+<use ./images/temp/temp20.png>
+Package pdftex.def Info: ./images/temp/temp20.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp20.png> <a0,fr19>
+<./images/temp/temp21.png, id=332, 738.76pt x 104.39pt>
+File: ./images/temp/temp21.png Graphic file (type png)
+<use ./images/temp/temp21.png>
+Package pdftex.def Info: ./images/temp/temp21.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp21.png> <a0,fr20>
+<./images/temp/temp22.png, id=343, 738.76pt x 104.39pt>
+File: ./images/temp/temp22.png Graphic file (type png)
+<use ./images/temp/temp22.png>
+Package pdftex.def Info: ./images/temp/temp22.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp22.png> <a0,fr21>
+<./images/temp/temp23.png, id=354, 738.76pt x 104.39pt>
+File: ./images/temp/temp23.png Graphic file (type png)
+<use ./images/temp/temp23.png>
+Package pdftex.def Info: ./images/temp/temp23.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp23.png> <a0,fr22>
+<./images/temp/temp24.png, id=365, 738.76pt x 104.39pt>
+File: ./images/temp/temp24.png Graphic file (type png)
+<use ./images/temp/temp24.png>
+Package pdftex.def Info: ./images/temp/temp24.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp24.png> <a0,fr23>
+<./images/temp/temp25.png, id=376, 738.76pt x 104.39pt>
+File: ./images/temp/temp25.png Graphic file (type png)
+<use ./images/temp/temp25.png>
+Package pdftex.def Info: ./images/temp/temp25.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp25.png> <a0,fr24>
+<./images/temp/temp26.png, id=387, 738.76pt x 104.39pt>
+File: ./images/temp/temp26.png Graphic file (type png)
+<use ./images/temp/temp26.png>
+Package pdftex.def Info: ./images/temp/temp26.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp26.png> <a0,fr25>
+<./images/temp/temp27.png, id=398, 738.76pt x 104.39pt>
+File: ./images/temp/temp27.png Graphic file (type png)
+<use ./images/temp/temp27.png>
+Package pdftex.def Info: ./images/temp/temp27.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp27.png> <a0,fr26>
+<./images/temp/temp28.png, id=409, 738.76pt x 104.39pt>
+File: ./images/temp/temp28.png Graphic file (type png)
+<use ./images/temp/temp28.png>
+Package pdftex.def Info: ./images/temp/temp28.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp28.png> <a0,fr27>
+<./images/temp/temp29.png, id=420, 738.76pt x 104.39pt>
+File: ./images/temp/temp29.png Graphic file (type png)
+<use ./images/temp/temp29.png>
+Package pdftex.def Info: ./images/temp/temp29.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp29.png> <a0,fr28>
+<./images/temp/temp30.png, id=431, 738.76pt x 104.39pt>
+File: ./images/temp/temp30.png Graphic file (type png)
+<use ./images/temp/temp30.png>
+Package pdftex.def Info: ./images/temp/temp30.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp30.png> <a0,fr29>
+<./images/temp/temp31.png, id=443, 738.76pt x 104.39pt>
+File: ./images/temp/temp31.png Graphic file (type png)
+<use ./images/temp/temp31.png>
+Package pdftex.def Info: ./images/temp/temp31.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp31.png> <a0,fr30>
+<./images/temp/temp32.png, id=454, 738.76pt x 104.39pt>
+File: ./images/temp/temp32.png Graphic file (type png)
+<use ./images/temp/temp32.png>
+Package pdftex.def Info: ./images/temp/temp32.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp32.png> <a0,fr31>
+<./images/temp/temp33.png, id=465, 738.76pt x 104.39pt>
+File: ./images/temp/temp33.png Graphic file (type png)
+<use ./images/temp/temp33.png>
+Package pdftex.def Info: ./images/temp/temp33.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp33.png> <a0,fr32>
+<./images/temp/temp34.png, id=476, 738.76pt x 104.39pt>
+File: ./images/temp/temp34.png Graphic file (type png)
+<use ./images/temp/temp34.png>
+Package pdftex.def Info: ./images/temp/temp34.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp34.png> <a0,fr33>
+<./images/temp/temp35.png, id=487, 738.76pt x 104.39pt>
+File: ./images/temp/temp35.png Graphic file (type png)
+<use ./images/temp/temp35.png>
+Package pdftex.def Info: ./images/temp/temp35.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp35.png> <a0,fr34>
+<./images/temp/temp36.png, id=498, 738.76pt x 104.39pt>
+File: ./images/temp/temp36.png Graphic file (type png)
+<use ./images/temp/temp36.png>
+Package pdftex.def Info: ./images/temp/temp36.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp36.png> <a0,fr35>
+<./images/temp/temp37.png, id=509, 738.76pt x 104.39pt>
+File: ./images/temp/temp37.png Graphic file (type png)
+<use ./images/temp/temp37.png>
+Package pdftex.def Info: ./images/temp/temp37.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp37.png> <a0,fr36>
+<./images/temp/temp38.png, id=520, 738.76pt x 104.39pt>
+File: ./images/temp/temp38.png Graphic file (type png)
+<use ./images/temp/temp38.png>
+Package pdftex.def Info: ./images/temp/temp38.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp38.png> <a0,fr37>
+<./images/temp/temp39.png, id=531, 738.76pt x 104.39pt>
+File: ./images/temp/temp39.png Graphic file (type png)
+<use ./images/temp/temp39.png>
+Package pdftex.def Info: ./images/temp/temp39.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp39.png> <a0,fr38>
+<./images/temp/temp40.png, id=542, 738.76pt x 104.39pt>
+File: ./images/temp/temp40.png Graphic file (type png)
+<use ./images/temp/temp40.png>
+Package pdftex.def Info: ./images/temp/temp40.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp40.png> <a0,fr39>
+<./images/temp/temp41.png, id=553, 738.76pt x 104.39pt>
+File: ./images/temp/temp41.png Graphic file (type png)
+<use ./images/temp/temp41.png>
+Package pdftex.def Info: ./images/temp/temp41.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp41.png> <a0,fr40>
+<./images/temp/temp42.png, id=564, 738.76pt x 104.39pt>
+File: ./images/temp/temp42.png Graphic file (type png)
+<use ./images/temp/temp42.png>
+Package pdftex.def Info: ./images/temp/temp42.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp42.png> <a0,fr41>
+<./images/temp/temp43.png, id=575, 738.76pt x 104.39pt>
+File: ./images/temp/temp43.png Graphic file (type png)
+<use ./images/temp/temp43.png>
+Package pdftex.def Info: ./images/temp/temp43.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp43.png> <a0,fr42>
+<./images/temp/temp44.png, id=586, 738.76pt x 104.39pt>
+File: ./images/temp/temp44.png Graphic file (type png)
+<use ./images/temp/temp44.png>
+Package pdftex.def Info: ./images/temp/temp44.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp44.png> <a0,fr43>
+<./images/temp/temp45.png, id=597, 738.76pt x 104.39pt>
+File: ./images/temp/temp45.png Graphic file (type png)
+<use ./images/temp/temp45.png>
+Package pdftex.def Info: ./images/temp/temp45.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp45.png> <a0,fr44>
+<./images/temp/temp46.png, id=608, 738.76pt x 104.39pt>
+File: ./images/temp/temp46.png Graphic file (type png)
+<use ./images/temp/temp46.png>
+Package pdftex.def Info: ./images/temp/temp46.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp46.png> <a0,fr45>
+<./images/temp/temp47.png, id=619, 738.76pt x 104.39pt>
+File: ./images/temp/temp47.png Graphic file (type png)
+<use ./images/temp/temp47.png>
+Package pdftex.def Info: ./images/temp/temp47.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp47.png> <a0,fr46>
+<./images/temp/temp48.png, id=630, 738.76pt x 104.39pt>
+File: ./images/temp/temp48.png Graphic file (type png)
+<use ./images/temp/temp48.png>
+Package pdftex.def Info: ./images/temp/temp48.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp48.png> <a0,fr47>
+<./images/temp/temp49.png, id=641, 738.76pt x 104.39pt>
+File: ./images/temp/temp49.png Graphic file (type png)
+<use ./images/temp/temp49.png>
+Package pdftex.def Info: ./images/temp/temp49.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp49.png> <a0,fr48> <a0,fr49> <a0,fr50> <a0,fr51> <a0,fr52> <
+a0,fr53> <a0,fr54>
+<./images/temp/temp56.png, id=682, 738.76pt x 104.39pt>
+File: ./images/temp/temp56.png Graphic file (type png)
+<use ./images/temp/temp56.png>
+Package pdftex.def Info: ./images/temp/temp56.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp56.png> <a0,fr55>
+<./images/temp/temp57.png, id=693, 738.76pt x 104.39pt>
+File: ./images/temp/temp57.png Graphic file (type png)
+<use ./images/temp/temp57.png>
+Package pdftex.def Info: ./images/temp/temp57.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp57.png> <a0,fr56>
+<./images/temp/temp58.png, id=704, 738.76pt x 104.39pt>
+File: ./images/temp/temp58.png Graphic file (type png)
+<use ./images/temp/temp58.png>
+Package pdftex.def Info: ./images/temp/temp58.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp58.png> <a0,fr57>
+<./images/temp/temp59.png, id=716, 738.76pt x 104.39pt>
+File: ./images/temp/temp59.png Graphic file (type png)
+<use ./images/temp/temp59.png>
+Package pdftex.def Info: ./images/temp/temp59.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp59.png> <a0,fr58>
+<./images/temp/temp60.png, id=727, 738.76pt x 104.39pt>
+File: ./images/temp/temp60.png Graphic file (type png)
+<use ./images/temp/temp60.png>
+Package pdftex.def Info: ./images/temp/temp60.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp60.png> <a0,fr59>
+<./images/temp/temp61.png, id=738, 738.76pt x 104.39pt>
+File: ./images/temp/temp61.png Graphic file (type png)
+<use ./images/temp/temp61.png>
+Package pdftex.def Info: ./images/temp/temp61.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp61.png> <a0,fr60>
+<./images/temp/temp62.png, id=749, 738.76pt x 104.39pt>
+File: ./images/temp/temp62.png Graphic file (type png)
+<use ./images/temp/temp62.png>
+Package pdftex.def Info: ./images/temp/temp62.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp62.png> <a0,fr61>
+<./images/temp/temp63.png, id=760, 738.76pt x 104.39pt>
+File: ./images/temp/temp63.png Graphic file (type png)
+<use ./images/temp/temp63.png>
+Package pdftex.def Info: ./images/temp/temp63.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp63.png> <a0,fr62>
+<./images/temp/temp64.png, id=771, 738.76pt x 104.39pt>
+File: ./images/temp/temp64.png Graphic file (type png)
+<use ./images/temp/temp64.png>
+Package pdftex.def Info: ./images/temp/temp64.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp64.png> <a0,fr63>
+<./images/temp/temp65.png, id=782, 738.76pt x 104.39pt>
+File: ./images/temp/temp65.png Graphic file (type png)
+<use ./images/temp/temp65.png>
+Package pdftex.def Info: ./images/temp/temp65.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp65.png> <a0,fr64>
+<./images/temp/temp66.png, id=793, 738.76pt x 104.39pt>
+File: ./images/temp/temp66.png Graphic file (type png)
+<use ./images/temp/temp66.png>
+Package pdftex.def Info: ./images/temp/temp66.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp66.png> <a0,fr65>
+<./images/temp/temp67.png, id=804, 738.76pt x 104.39pt>
+File: ./images/temp/temp67.png Graphic file (type png)
+<use ./images/temp/temp67.png>
+Package pdftex.def Info: ./images/temp/temp67.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp67.png> <a0,fr66>
+<./images/temp/temp68.png, id=815, 738.76pt x 104.39pt>
+File: ./images/temp/temp68.png Graphic file (type png)
+<use ./images/temp/temp68.png>
+Package pdftex.def Info: ./images/temp/temp68.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp68.png> <a0,fr67>
+<./images/temp/temp69.png, id=826, 738.76pt x 104.39pt>
+File: ./images/temp/temp69.png Graphic file (type png)
+<use ./images/temp/temp69.png>
+Package pdftex.def Info: ./images/temp/temp69.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp69.png> <a0,fr68>
+<./images/temp/temp70.png, id=837, 738.76pt x 104.39pt>
+File: ./images/temp/temp70.png Graphic file (type png)
+<use ./images/temp/temp70.png>
+Package pdftex.def Info: ./images/temp/temp70.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp70.png> <a0,fr69>
+<./images/temp/temp71.png, id=848, 738.76pt x 104.39pt>
+File: ./images/temp/temp71.png Graphic file (type png)
+<use ./images/temp/temp71.png>
+Package pdftex.def Info: ./images/temp/temp71.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp71.png> <a0,fr70>
+<./images/temp/temp72.png, id=859, 738.76pt x 104.39pt>
+File: ./images/temp/temp72.png Graphic file (type png)
+<use ./images/temp/temp72.png>
+Package pdftex.def Info: ./images/temp/temp72.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp72.png> <a0,fr71>
+<./images/temp/temp73.png, id=870, 738.76pt x 104.39pt>
+File: ./images/temp/temp73.png Graphic file (type png)
+<use ./images/temp/temp73.png>
+Package pdftex.def Info: ./images/temp/temp73.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp73.png> <a0,fr72>
+<./images/temp/temp74.png, id=881, 738.76pt x 104.39pt>
+File: ./images/temp/temp74.png Graphic file (type png)
+<use ./images/temp/temp74.png>
+Package pdftex.def Info: ./images/temp/temp74.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp74.png> <a0,fr73>
+<./images/temp/temp75.png, id=892, 738.76pt x 104.39pt>
+File: ./images/temp/temp75.png Graphic file (type png)
+<use ./images/temp/temp75.png>
+Package pdftex.def Info: ./images/temp/temp75.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp75.png> <a0,fr74>
+<./images/temp/temp76.png, id=903, 738.76pt x 104.39pt>
+File: ./images/temp/temp76.png Graphic file (type png)
+<use ./images/temp/temp76.png>
+Package pdftex.def Info: ./images/temp/temp76.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp76.png> <a0,fr75>
+<./images/temp/temp77.png, id=914, 738.76pt x 104.39pt>
+File: ./images/temp/temp77.png Graphic file (type png)
+<use ./images/temp/temp77.png>
+Package pdftex.def Info: ./images/temp/temp77.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp77.png> <a0,fr76>
+<./images/temp/temp78.png, id=925, 738.76pt x 104.39pt>
+File: ./images/temp/temp78.png Graphic file (type png)
+<use ./images/temp/temp78.png>
+Package pdftex.def Info: ./images/temp/temp78.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp78.png> <a0,fr77>
+<./images/temp/temp79.png, id=936, 738.76pt x 104.39pt>
+File: ./images/temp/temp79.png Graphic file (type png)
+<use ./images/temp/temp79.png>
+Package pdftex.def Info: ./images/temp/temp79.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp79.png> <a0,fr78>
+<./images/temp/temp80.png, id=947, 738.76pt x 104.39pt>
+File: ./images/temp/temp80.png Graphic file (type png)
+<use ./images/temp/temp80.png>
+Package pdftex.def Info: ./images/temp/temp80.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp80.png> <a0,fr79>
+<./images/temp/temp81.png, id=958, 738.76pt x 104.39pt>
+File: ./images/temp/temp81.png Graphic file (type png)
+<use ./images/temp/temp81.png>
+Package pdftex.def Info: ./images/temp/temp81.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp81.png> <a0,fr80>
+<./images/temp/temp82.png, id=969, 738.76pt x 104.39pt>
+File: ./images/temp/temp82.png Graphic file (type png)
+<use ./images/temp/temp82.png>
+Package pdftex.def Info: ./images/temp/temp82.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp82.png> <a0,fr81>
+<./images/temp/temp83.png, id=980, 738.76pt x 104.39pt>
+File: ./images/temp/temp83.png Graphic file (type png)
+<use ./images/temp/temp83.png>
+Package pdftex.def Info: ./images/temp/temp83.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp83.png> <a0,fr82>
+<./images/temp/temp84.png, id=992, 738.76pt x 104.39pt>
+File: ./images/temp/temp84.png Graphic file (type png)
+<use ./images/temp/temp84.png>
+Package pdftex.def Info: ./images/temp/temp84.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp84.png> <a0,fr83>
+<./images/temp/temp85.png, id=1003, 738.76pt x 104.39pt>
+File: ./images/temp/temp85.png Graphic file (type png)
+<use ./images/temp/temp85.png>
+Package pdftex.def Info: ./images/temp/temp85.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp85.png> <a0,fr84>
+<./images/temp/temp86.png, id=1014, 738.76pt x 104.39pt>
+File: ./images/temp/temp86.png Graphic file (type png)
+<use ./images/temp/temp86.png>
+Package pdftex.def Info: ./images/temp/temp86.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp86.png> <a0,fr85>
+<./images/temp/temp87.png, id=1025, 738.76pt x 104.39pt>
+File: ./images/temp/temp87.png Graphic file (type png)
+<use ./images/temp/temp87.png>
+Package pdftex.def Info: ./images/temp/temp87.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp87.png> <a0,fr86>
+<./images/temp/temp88.png, id=1036, 738.76pt x 104.39pt>
+File: ./images/temp/temp88.png Graphic file (type png)
+<use ./images/temp/temp88.png>
+Package pdftex.def Info: ./images/temp/temp88.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp88.png> <a0,fr87>
+<./images/temp/temp89.png, id=1047, 738.76pt x 104.39pt>
+File: ./images/temp/temp89.png Graphic file (type png)
+<use ./images/temp/temp89.png>
+Package pdftex.def Info: ./images/temp/temp89.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp89.png> <a0,fr88>
+<./images/temp/temp90.png, id=1058, 738.76pt x 104.39pt>
+File: ./images/temp/temp90.png Graphic file (type png)
+<use ./images/temp/temp90.png>
+Package pdftex.def Info: ./images/temp/temp90.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp90.png> <a0,fr89>
+<./images/temp/temp91.png, id=1069, 738.76pt x 104.39pt>
+File: ./images/temp/temp91.png Graphic file (type png)
+<use ./images/temp/temp91.png>
+Package pdftex.def Info: ./images/temp/temp91.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp91.png> <a0,fr90>
+<./images/temp/temp92.png, id=1080, 738.76pt x 104.39pt>
+File: ./images/temp/temp92.png Graphic file (type png)
+<use ./images/temp/temp92.png>
+Package pdftex.def Info: ./images/temp/temp92.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp92.png> <a0,fr91>
+<./images/temp/temp93.png, id=1091, 738.76pt x 104.39pt>
+File: ./images/temp/temp93.png Graphic file (type png)
+<use ./images/temp/temp93.png>
+Package pdftex.def Info: ./images/temp/temp93.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp93.png> <a0,fr92>
+<./images/temp/temp94.png, id=1102, 738.76pt x 104.39pt>
+File: ./images/temp/temp94.png Graphic file (type png)
+<use ./images/temp/temp94.png>
+Package pdftex.def Info: ./images/temp/temp94.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp94.png> <a0,fr93>
+<./images/temp/temp95.png, id=1113, 738.76pt x 104.39pt>
+File: ./images/temp/temp95.png Graphic file (type png)
+<use ./images/temp/temp95.png>
+Package pdftex.def Info: ./images/temp/temp95.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp95.png> <a0,fr94>
+<./images/temp/temp96.png, id=1124, 738.76pt x 104.39pt>
+File: ./images/temp/temp96.png Graphic file (type png)
+<use ./images/temp/temp96.png>
+Package pdftex.def Info: ./images/temp/temp96.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp96.png> <a0,fr95>
+<./images/temp/temp97.png, id=1135, 738.76pt x 104.39pt>
+File: ./images/temp/temp97.png Graphic file (type png)
+<use ./images/temp/temp97.png>
+Package pdftex.def Info: ./images/temp/temp97.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp97.png> <a0,fr96>
+<./images/temp/temp98.png, id=1146, 738.76pt x 104.39pt>
+File: ./images/temp/temp98.png Graphic file (type png)
+<use ./images/temp/temp98.png>
+Package pdftex.def Info: ./images/temp/temp98.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp98.png> <a0,fr97>
+<./images/temp/temp99.png, id=1157, 738.76pt x 104.39pt>
+File: ./images/temp/temp99.png Graphic file (type png)
+<use ./images/temp/temp99.png>
+Package pdftex.def Info: ./images/temp/temp99.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp99.png> <a0,fr98>
+<./images/temp/temp100.png, id=1168, 738.76pt x 104.39pt>
+File: ./images/temp/temp100.png Graphic file (type png)
+<use ./images/temp/temp100.png>
+Package pdftex.def Info: ./images/temp/temp100.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp100.png> <a0,fr99>
+<./images/temp/temp101.png, id=1179, 738.76pt x 104.39pt>
+File: ./images/temp/temp101.png Graphic file (type png)
+<use ./images/temp/temp101.png>
+Package pdftex.def Info: ./images/temp/temp101.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp101.png> <a0,fr100>
+<./images/temp/temp102.png, id=1190, 738.76pt x 104.39pt>
+File: ./images/temp/temp102.png Graphic file (type png)
+<use ./images/temp/temp102.png>
+Package pdftex.def Info: ./images/temp/temp102.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp102.png> <a0,fr101>
+<./images/temp/temp103.png, id=1201, 738.76pt x 104.39pt>
+File: ./images/temp/temp103.png Graphic file (type png)
+<use ./images/temp/temp103.png>
+Package pdftex.def Info: ./images/temp/temp103.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp103.png> <a0,fr102>
+<./images/temp/temp104.png, id=1212, 738.76pt x 104.39pt>
+File: ./images/temp/temp104.png Graphic file (type png)
+<use ./images/temp/temp104.png>
+Package pdftex.def Info: ./images/temp/temp104.png  used on input line 64.
+(pdftex.def)             Requested size: 738.75818pt x 104.38972pt.
+ <./images/temp/temp104.png> <a0,fr103> <a0,fr104> <a0,fr105> <a0,fr106> <a0,fr
+107> <a0,fr108> <a0,fr109>
+<images/warping.png, id=1257, 619.56468pt x 149.8097pt>
+File: images/warping.png Graphic file (type png)
+<use images/warping.png>
+Package pdftex.def Info: images/warping.png  used on input line 64.
+(pdftex.def)             Requested size: 205.37926pt x 49.65907pt.
+[4
+
+ <./images/Optical_flow_example.png (PNG copy)> <./images/warping.png>]
+<images/smm.png, id=1288, 588.69937pt x 280.79906pt>
+File: images/smm.png Graphic file (type png)
+<use images/smm.png>
+Package pdftex.def Info: images/smm.png  used on input line 81.
+(pdftex.def)             Requested size: 239.60567pt x 114.28856pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
+
+(d:/Software/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
+
+(d:/Software/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 81.
+(d:/Software/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+) [5
+
+ <./images/smm.png>]
+<./images/motion/temp1.png, id=1331, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp1.png Graphic file (type png)
+<use ./images/motion/temp1.png>
+Package pdftex.def Info: ./images/motion/temp1.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp1.png> <a1,fr0>
+<./images/motion/temp2.png, id=1342, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp2.png Graphic file (type png)
+<use ./images/motion/temp2.png>
+Package pdftex.def Info: ./images/motion/temp2.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp2.png> <a1,fr1> <a1,fr2>
+<./images/motion/temp4.png, id=1358, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp4.png Graphic file (type png)
+<use ./images/motion/temp4.png>
+Package pdftex.def Info: ./images/motion/temp4.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp4.png> <a1,fr3> <a1,fr4>
+<./images/motion/temp6.png, id=1374, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp6.png Graphic file (type png)
+<use ./images/motion/temp6.png>
+Package pdftex.def Info: ./images/motion/temp6.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp6.png> <a1,fr5> <a1,fr6>
+<./images/motion/temp8.png, id=1390, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp8.png Graphic file (type png)
+<use ./images/motion/temp8.png>
+Package pdftex.def Info: ./images/motion/temp8.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp8.png> <a1,fr7> <a1,fr8>
+<./images/motion/temp10.png, id=1406, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp10.png Graphic file (type png)
+<use ./images/motion/temp10.png>
+Package pdftex.def Info: ./images/motion/temp10.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp10.png> <a1,fr9>
+<./images/motion/temp11.png, id=1417, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp11.png Graphic file (type png)
+<use ./images/motion/temp11.png>
+Package pdftex.def Info: ./images/motion/temp11.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp11.png> <a1,fr10> <a1,fr11> <a1,fr12>
+<./images/motion/temp14.png, id=1439, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp14.png Graphic file (type png)
+<use ./images/motion/temp14.png>
+Package pdftex.def Info: ./images/motion/temp14.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp14.png> <a1,fr13> <a1,fr14>
+<./images/motion/temp16.png, id=1455, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp16.png Graphic file (type png)
+<use ./images/motion/temp16.png>
+Package pdftex.def Info: ./images/motion/temp16.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp16.png> <a1,fr15>
+<./images/motion/temp17.png, id=1466, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp17.png Graphic file (type png)
+<use ./images/motion/temp17.png>
+Package pdftex.def Info: ./images/motion/temp17.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp17.png> <a1,fr16> <a1,fr17> <a1,fr18>
+<./images/motion/temp20.png, id=1487, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp20.png Graphic file (type png)
+<use ./images/motion/temp20.png>
+Package pdftex.def Info: ./images/motion/temp20.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp20.png> <a1,fr19>
+<./images/motion/temp21.png, id=1498, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp21.png Graphic file (type png)
+<use ./images/motion/temp21.png>
+Package pdftex.def Info: ./images/motion/temp21.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp21.png> <a1,fr20> <a1,fr21>
+<./images/motion/temp23.png, id=1514, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp23.png Graphic file (type png)
+<use ./images/motion/temp23.png>
+Package pdftex.def Info: ./images/motion/temp23.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp23.png> <a1,fr22> <a1,fr23>
+<./images/motion/temp25.png, id=1530, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp25.png Graphic file (type png)
+<use ./images/motion/temp25.png>
+Package pdftex.def Info: ./images/motion/temp25.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp25.png> <a1,fr24> <a1,fr25>
+<./images/motion/temp27.png, id=1546, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp27.png Graphic file (type png)
+<use ./images/motion/temp27.png>
+Package pdftex.def Info: ./images/motion/temp27.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp27.png> <a1,fr26> <a1,fr27>
+<./images/motion/temp29.png, id=1562, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp29.png Graphic file (type png)
+<use ./images/motion/temp29.png>
+Package pdftex.def Info: ./images/motion/temp29.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp29.png> <a1,fr28> <a1,fr29>
+<./images/motion/temp31.png, id=1578, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp31.png Graphic file (type png)
+<use ./images/motion/temp31.png>
+Package pdftex.def Info: ./images/motion/temp31.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp31.png> <a1,fr30> <a1,fr31>
+<./images/motion/temp33.png, id=1594, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp33.png Graphic file (type png)
+<use ./images/motion/temp33.png>
+Package pdftex.def Info: ./images/motion/temp33.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp33.png> <a1,fr32> <a1,fr33>
+<./images/motion/temp35.png, id=1610, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp35.png Graphic file (type png)
+<use ./images/motion/temp35.png>
+Package pdftex.def Info: ./images/motion/temp35.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp35.png> <a1,fr34> <a1,fr35>
+<./images/motion/temp37.png, id=1626, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp37.png Graphic file (type png)
+<use ./images/motion/temp37.png>
+Package pdftex.def Info: ./images/motion/temp37.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp37.png> <a1,fr36> <a1,fr37>
+<./images/motion/temp39.png, id=1642, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp39.png Graphic file (type png)
+<use ./images/motion/temp39.png>
+Package pdftex.def Info: ./images/motion/temp39.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp39.png> <a1,fr38> <a1,fr39>
+<./images/motion/temp41.png, id=1658, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp41.png Graphic file (type png)
+<use ./images/motion/temp41.png>
+Package pdftex.def Info: ./images/motion/temp41.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp41.png> <a1,fr40>
+<./images/motion/temp42.png, id=1669, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp42.png Graphic file (type png)
+<use ./images/motion/temp42.png>
+Package pdftex.def Info: ./images/motion/temp42.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp42.png> <a1,fr41> <a1,fr42>
+<./images/motion/temp44.png, id=1685, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp44.png Graphic file (type png)
+<use ./images/motion/temp44.png>
+Package pdftex.def Info: ./images/motion/temp44.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp44.png> <a1,fr43> <a1,fr44> <a1,fr45>
+<./images/motion/temp47.png, id=1707, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp47.png Graphic file (type png)
+<use ./images/motion/temp47.png>
+Package pdftex.def Info: ./images/motion/temp47.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp47.png> <a1,fr46>
+<./images/motion/temp48.png, id=1718, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp48.png Graphic file (type png)
+<use ./images/motion/temp48.png>
+Package pdftex.def Info: ./images/motion/temp48.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp48.png> <a1,fr47> <a1,fr48> <a1,fr49>
+<./images/motion/temp51.png, id=1739, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp51.png Graphic file (type png)
+<use ./images/motion/temp51.png>
+Package pdftex.def Info: ./images/motion/temp51.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp51.png> <a1,fr50> <a1,fr51>
+<./images/motion/temp53.png, id=1755, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp53.png Graphic file (type png)
+<use ./images/motion/temp53.png>
+Package pdftex.def Info: ./images/motion/temp53.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp53.png> <a1,fr52>
+<./images/motion/temp54.png, id=1766, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp54.png Graphic file (type png)
+<use ./images/motion/temp54.png>
+Package pdftex.def Info: ./images/motion/temp54.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp54.png> <a1,fr53> <a1,fr54>
+<./images/motion/temp56.png, id=1782, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp56.png Graphic file (type png)
+<use ./images/motion/temp56.png>
+Package pdftex.def Info: ./images/motion/temp56.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp56.png> <a1,fr55> <a1,fr56>
+<./images/motion/temp58.png, id=1798, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp58.png Graphic file (type png)
+<use ./images/motion/temp58.png>
+Package pdftex.def Info: ./images/motion/temp58.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp58.png> <a1,fr57> <a1,fr58>
+<./images/motion/temp60.png, id=1814, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp60.png Graphic file (type png)
+<use ./images/motion/temp60.png>
+Package pdftex.def Info: ./images/motion/temp60.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp60.png> <a1,fr59> <a1,fr60>
+<./images/motion/temp62.png, id=1830, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp62.png Graphic file (type png)
+<use ./images/motion/temp62.png>
+Package pdftex.def Info: ./images/motion/temp62.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp62.png> <a1,fr61>
+<./images/motion/temp63.png, id=1841, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp63.png Graphic file (type png)
+<use ./images/motion/temp63.png>
+Package pdftex.def Info: ./images/motion/temp63.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp63.png> <a1,fr62>
+<./images/motion/temp64.png, id=1852, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp64.png Graphic file (type png)
+<use ./images/motion/temp64.png>
+Package pdftex.def Info: ./images/motion/temp64.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp64.png> <a1,fr63> <a1,fr64>
+<./images/motion/temp66.png, id=1868, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp66.png Graphic file (type png)
+<use ./images/motion/temp66.png>
+Package pdftex.def Info: ./images/motion/temp66.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp66.png> <a1,fr65> <a1,fr66>
+<./images/motion/temp68.png, id=1884, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp68.png Graphic file (type png)
+<use ./images/motion/temp68.png>
+Package pdftex.def Info: ./images/motion/temp68.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp68.png> <a1,fr67> <a1,fr68>
+<./images/motion/temp70.png, id=1900, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp70.png Graphic file (type png)
+<use ./images/motion/temp70.png>
+Package pdftex.def Info: ./images/motion/temp70.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp70.png> <a1,fr69> <a1,fr70>
+<./images/motion/temp72.png, id=1916, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp72.png Graphic file (type png)
+<use ./images/motion/temp72.png>
+Package pdftex.def Info: ./images/motion/temp72.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp72.png> <a1,fr71> <a1,fr72>
+<./images/motion/temp74.png, id=1932, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp74.png Graphic file (type png)
+<use ./images/motion/temp74.png>
+Package pdftex.def Info: ./images/motion/temp74.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp74.png> <a1,fr73> <a1,fr74>
+<./images/motion/temp76.png, id=1948, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp76.png Graphic file (type png)
+<use ./images/motion/temp76.png>
+Package pdftex.def Info: ./images/motion/temp76.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp76.png> <a1,fr75> <a1,fr76>
+<./images/motion/temp78.png, id=1965, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp78.png Graphic file (type png)
+<use ./images/motion/temp78.png>
+Package pdftex.def Info: ./images/motion/temp78.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp78.png> <a1,fr77> <a1,fr78>
+<./images/motion/temp80.png, id=1981, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp80.png Graphic file (type png)
+<use ./images/motion/temp80.png>
+Package pdftex.def Info: ./images/motion/temp80.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp80.png> <a1,fr79> <a1,fr80>
+<./images/motion/temp82.png, id=1997, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp82.png Graphic file (type png)
+<use ./images/motion/temp82.png>
+Package pdftex.def Info: ./images/motion/temp82.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp82.png> <a1,fr81>
+<./images/motion/temp83.png, id=2008, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp83.png Graphic file (type png)
+<use ./images/motion/temp83.png>
+Package pdftex.def Info: ./images/motion/temp83.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp83.png> <a1,fr82> <a1,fr83>
+<./images/motion/temp85.png, id=2024, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp85.png Graphic file (type png)
+<use ./images/motion/temp85.png>
+Package pdftex.def Info: ./images/motion/temp85.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp85.png> <a1,fr84> <a1,fr85>
+<./images/motion/temp87.png, id=2040, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp87.png Graphic file (type png)
+<use ./images/motion/temp87.png>
+Package pdftex.def Info: ./images/motion/temp87.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp87.png> <a1,fr86> <a1,fr87>
+<./images/motion/temp89.png, id=2056, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp89.png Graphic file (type png)
+<use ./images/motion/temp89.png>
+Package pdftex.def Info: ./images/motion/temp89.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp89.png> <a1,fr88> <a1,fr89>
+<./images/motion/temp91.png, id=2072, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp91.png Graphic file (type png)
+<use ./images/motion/temp91.png>
+Package pdftex.def Info: ./images/motion/temp91.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp91.png> <a1,fr90> <a1,fr91>
+<./images/motion/temp93.png, id=2088, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp93.png Graphic file (type png)
+<use ./images/motion/temp93.png>
+Package pdftex.def Info: ./images/motion/temp93.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp93.png> <a1,fr92> <a1,fr93>
+<./images/motion/temp95.png, id=2104, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp95.png Graphic file (type png)
+<use ./images/motion/temp95.png>
+Package pdftex.def Info: ./images/motion/temp95.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp95.png> <a1,fr94> <a1,fr95>
+<./images/motion/temp97.png, id=2120, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp97.png Graphic file (type png)
+<use ./images/motion/temp97.png>
+Package pdftex.def Info: ./images/motion/temp97.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp97.png> <a1,fr96>
+<./images/motion/temp98.png, id=2131, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp98.png Graphic file (type png)
+<use ./images/motion/temp98.png>
+Package pdftex.def Info: ./images/motion/temp98.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp98.png> <a1,fr97> <a1,fr98>
+<./images/motion/temp100.png, id=2147, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp100.png Graphic file (type png)
+<use ./images/motion/temp100.png>
+Package pdftex.def Info: ./images/motion/temp100.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp100.png> <a1,fr99> <a1,fr100>
+<./images/motion/temp102.png, id=2163, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp102.png Graphic file (type png)
+<use ./images/motion/temp102.png>
+Package pdftex.def Info: ./images/motion/temp102.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp102.png> <a1,fr101> <a1,fr102>
+<./images/motion/temp104.png, id=2179, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp104.png Graphic file (type png)
+<use ./images/motion/temp104.png>
+Package pdftex.def Info: ./images/motion/temp104.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp104.png> <a1,fr103> <a1,fr104>
+<./images/motion/temp106.png, id=2195, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp106.png Graphic file (type png)
+<use ./images/motion/temp106.png>
+Package pdftex.def Info: ./images/motion/temp106.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp106.png> <a1,fr105> <a1,fr106>
+<./images/motion/temp108.png, id=2211, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp108.png Graphic file (type png)
+<use ./images/motion/temp108.png>
+Package pdftex.def Info: ./images/motion/temp108.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp108.png> <a1,fr107> <a1,fr108>
+<./images/motion/temp110.png, id=2227, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp110.png Graphic file (type png)
+<use ./images/motion/temp110.png>
+Package pdftex.def Info: ./images/motion/temp110.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp110.png> <a1,fr109> <a1,fr110>
+<./images/motion/temp112.png, id=2244, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp112.png Graphic file (type png)
+<use ./images/motion/temp112.png>
+Package pdftex.def Info: ./images/motion/temp112.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp112.png> <a1,fr111> <a1,fr112>
+<./images/motion/temp114.png, id=2260, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp114.png Graphic file (type png)
+<use ./images/motion/temp114.png>
+Package pdftex.def Info: ./images/motion/temp114.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp114.png> <a1,fr113> <a1,fr114>
+<./images/motion/temp116.png, id=2276, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp116.png Graphic file (type png)
+<use ./images/motion/temp116.png>
+Package pdftex.def Info: ./images/motion/temp116.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp116.png> <a1,fr115> <a1,fr116>
+<./images/motion/temp118.png, id=2292, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp118.png Graphic file (type png)
+<use ./images/motion/temp118.png>
+Package pdftex.def Info: ./images/motion/temp118.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp118.png> <a1,fr117>
+<./images/motion/temp119.png, id=2303, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp119.png Graphic file (type png)
+<use ./images/motion/temp119.png>
+Package pdftex.def Info: ./images/motion/temp119.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp119.png> <a1,fr118> <a1,fr119>
+<./images/motion/temp121.png, id=2319, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp121.png Graphic file (type png)
+<use ./images/motion/temp121.png>
+Package pdftex.def Info: ./images/motion/temp121.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp121.png> <a1,fr120> <a1,fr121>
+<./images/motion/temp123.png, id=2335, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp123.png Graphic file (type png)
+<use ./images/motion/temp123.png>
+Package pdftex.def Info: ./images/motion/temp123.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp123.png> <a1,fr122> <a1,fr123>
+<./images/motion/temp125.png, id=2351, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp125.png Graphic file (type png)
+<use ./images/motion/temp125.png>
+Package pdftex.def Info: ./images/motion/temp125.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp125.png> <a1,fr124> <a1,fr125>
+<./images/motion/temp127.png, id=2367, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp127.png Graphic file (type png)
+<use ./images/motion/temp127.png>
+Package pdftex.def Info: ./images/motion/temp127.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp127.png> <a1,fr126> <a1,fr127>
+<./images/motion/temp129.png, id=2383, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp129.png Graphic file (type png)
+<use ./images/motion/temp129.png>
+Package pdftex.def Info: ./images/motion/temp129.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp129.png> <a1,fr128> <a1,fr129>
+<./images/motion/temp131.png, id=2399, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp131.png Graphic file (type png)
+<use ./images/motion/temp131.png>
+Package pdftex.def Info: ./images/motion/temp131.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp131.png> <a1,fr130> <a1,fr131>
+<./images/motion/temp133.png, id=2415, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp133.png Graphic file (type png)
+<use ./images/motion/temp133.png>
+Package pdftex.def Info: ./images/motion/temp133.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp133.png> <a1,fr132> <a1,fr133>
+<./images/motion/temp135.png, id=2431, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp135.png Graphic file (type png)
+<use ./images/motion/temp135.png>
+Package pdftex.def Info: ./images/motion/temp135.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp135.png> <a1,fr134>
+<./images/motion/temp136.png, id=2442, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp136.png Graphic file (type png)
+<use ./images/motion/temp136.png>
+Package pdftex.def Info: ./images/motion/temp136.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp136.png> <a1,fr135> <a1,fr136>
+<./images/motion/temp138.png, id=2458, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp138.png Graphic file (type png)
+<use ./images/motion/temp138.png>
+Package pdftex.def Info: ./images/motion/temp138.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp138.png> <a1,fr137> <a1,fr138>
+<./images/motion/temp140.png, id=2474, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp140.png Graphic file (type png)
+<use ./images/motion/temp140.png>
+Package pdftex.def Info: ./images/motion/temp140.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp140.png> <a1,fr139> <a1,fr140>
+<./images/motion/temp142.png, id=2490, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp142.png Graphic file (type png)
+<use ./images/motion/temp142.png>
+Package pdftex.def Info: ./images/motion/temp142.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp142.png> <a1,fr141> <a1,fr142>
+<./images/motion/temp144.png, id=2507, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp144.png Graphic file (type png)
+<use ./images/motion/temp144.png>
+Package pdftex.def Info: ./images/motion/temp144.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp144.png> <a1,fr143> <a1,fr144>
+<./images/motion/temp146.png, id=2523, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp146.png Graphic file (type png)
+<use ./images/motion/temp146.png>
+Package pdftex.def Info: ./images/motion/temp146.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp146.png> <a1,fr145> <a1,fr146>
+<./images/motion/temp148.png, id=2539, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp148.png Graphic file (type png)
+<use ./images/motion/temp148.png>
+Package pdftex.def Info: ./images/motion/temp148.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp148.png> <a1,fr147> <a1,fr148>
+<./images/motion/temp150.png, id=2555, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp150.png Graphic file (type png)
+<use ./images/motion/temp150.png>
+Package pdftex.def Info: ./images/motion/temp150.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp150.png> <a1,fr149>
+<./images/motion/temp151.png, id=2566, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp151.png Graphic file (type png)
+<use ./images/motion/temp151.png>
+Package pdftex.def Info: ./images/motion/temp151.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp151.png> <a1,fr150> <a1,fr151> <a1,fr152>
+<./images/motion/temp154.png, id=2587, 1137.24875pt x 130.4875pt>
+File: ./images/motion/temp154.png Graphic file (type png)
+<use ./images/motion/temp154.png>
+Package pdftex.def Info: ./images/motion/temp154.png  used on input line 95.
+(pdftex.def)             Requested size: 1137.24599pt x 130.48717pt.
+ <./images/motion/temp154.png> <a1,fr153> [6
+
+]
+<images/dataset.png, id=2632, 541.02126pt x 263.98625pt>
+File: images/dataset.png Graphic file (type png)
+<use images/dataset.png>
+Package pdftex.def Info: images/dataset.png  used on input line 122.
+(pdftex.def)             Requested size: 239.60567pt x 116.91158pt.
+[7
+
+ <./images/dataset.png>]
+<images/dataset_analysis.png, id=2663, 324.71312pt x 101.37875pt>
+File: images/dataset_analysis.png Graphic file (type png)
+<use images/dataset_analysis.png>
+Package pdftex.def Info: images/dataset_analysis.png  used on input line 122.
+(pdftex.def)             Requested size: 205.37926pt x 64.12263pt.
+[8
+
+ <./images/dataset_analysis.png>]
+<images/all_structure.png, id=2691, 347.79938pt x 279.54437pt>
+File: images/all_structure.png Graphic file (type png)
+<use images/all_structure.png>
+Package pdftex.def Info: images/all_structure.png  used on input line 206.
+(pdftex.def)             Requested size: 205.37926pt x 165.0705pt.
+[9
+
+ <./images/all_structure.png>]
+<images/scale_s.png, id=2722, 572.63937pt x 174.15062pt>
+File: images/scale_s.png Graphic file (type png)
+<use images/scale_s.png>
+Package pdftex.def Info: images/scale_s.png  used on input line 206.
+(pdftex.def)             Requested size: 325.17949pt x 98.89485pt.
+[10
+
+ <./images/scale_s.png>]
+File: images/scale_s.png Graphic file (type png)
+<use images/scale_s.png>
+Package pdftex.def Info: images/scale_s.png  used on input line 206.
+(pdftex.def)             Requested size: 325.17949pt x 98.89485pt.
+[11
+
+]
+File: images/scale_s.png Graphic file (type png)
+<use images/scale_s.png>
+Package pdftex.def Info: images/scale_s.png  used on input line 206.
+(pdftex.def)             Requested size: 325.17949pt x 98.89485pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/m/n' instead on input line 206.
+
+[12
+
+]
+File: images/scale_s.png Graphic file (type png)
+<use images/scale_s.png>
+Package pdftex.def Info: images/scale_s.png  used on input line 206.
+(pdftex.def)             Requested size: 325.17949pt x 98.89485pt.
+[13
+
+]
+File: images/scale_s.png Graphic file (type png)
+<use images/scale_s.png>
+Package pdftex.def Info: images/scale_s.png  used on input line 206.
+(pdftex.def)             Requested size: 325.17949pt x 98.89485pt.
+[14
+
+]
+File: images/all_structure.png Graphic file (type png)
+<use images/all_structure.png>
+Package pdftex.def Info: images/all_structure.png  used on input line 206.
+(pdftex.def)             Requested size: 171.14764pt x 137.55803pt.
+[15
+
+]
+File: images/all_structure.png Graphic file (type png)
+<use images/all_structure.png>
+Package pdftex.def Info: images/all_structure.png  used on input line 223.
+(pdftex.def)             Requested size: 170.71652pt x 137.21252pt.
+
+Overfull \hbox (12.33154pt too wide) detected at line 223
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+[16
+
+]
+<images/data_result.png, id=2927, 694.595pt x 475.7775pt>
+File: images/data_result.png Graphic file (type png)
+<use images/data_result.png>
+Package pdftex.def Info: images/data_result.png  used on input line 254.
+(pdftex.def)             Requested size: 205.37926pt x 140.67982pt.
+[17
+
+ <./images/data_result.png>]
+<images/PSNR_profile.png, id=2959, 351.81438pt x 192.21812pt>
+File: images/PSNR_profile.png Graphic file (type png)
+<use images/PSNR_profile.png>
+Package pdftex.def Info: images/PSNR_profile.png  used on input line 254.
+(pdftex.def)             Requested size: 205.37926pt x 112.21103pt.
+[18
+
+ <./images/PSNR_profile.png>]
+<images/Visual_results.png, id=2987, 1432.35126pt x 718.685pt>
+File: images/Visual_results.png Graphic file (type png)
+<use images/Visual_results.png>
+Package pdftex.def Info: images/Visual_results.png  used on input line 254.
+(pdftex.def)             Requested size: 308.06367pt x 154.56909pt.
+[19
+
+ <./images/Visual_results.png>]
+File: images/scale_s.png Graphic file (type png)
+<use images/scale_s.png>
+Package pdftex.def Info: images/scale_s.png  used on input line 285.
+(pdftex.def)             Requested size: 308.06367pt x 93.68916pt.
+[20
+
+]
+<images/FLOW_ABLATION.png, id=3045, 322.20375pt x 84.315pt>
+File: images/FLOW_ABLATION.png Graphic file (type png)
+<use images/FLOW_ABLATION.png>
+Package pdftex.def Info: images/FLOW_ABLATION.png  used on input line 285.
+(pdftex.def)             Requested size: 239.60567pt x 62.70345pt.
+<images/adjustable_scalability.png, id=3046, 337.26pt x 88.83188pt>
+File: images/adjustable_scalability.png Graphic file (type png)
+<use images/adjustable_scalability.png>
+Package pdftex.def Info: images/adjustable_scalability.png  used on input line 
+285.
+(pdftex.def)             Requested size: 224.2757pt x 59.07379pt.
+[21
+
+ <./images/FLOW_ABLATION.png> <./images/adjustable_scalability.png>]
+<images/robustness.png, id=3076, 343.2825pt x 190.21063pt>
+File: images/robustness.png Graphic file (type png)
+<use images/robustness.png>
+Package pdftex.def Info: images/robustness.png  used on input line 285.
+(pdftex.def)             Requested size: 192.23909pt x 106.51721pt.
+[22
+
+ <./images/robustness.png>]
+<images/case1.png, id=3104, 575.14874pt x 265.49188pt>
+File: images/case1.png Graphic file (type png)
+<use images/case1.png>
+Package pdftex.def Info: images/case1.png  used on input line 307.
+(pdftex.def)             Requested size: 308.06367pt x 142.20892pt.
+[23
+
+ <./images/case1.png>]
+<images/case2.png, id=3134, 572.1375pt x 211.79124pt>
+File: images/case2.png Graphic file (type png)
+<use images/case2.png>
+Package pdftex.def Info: images/case2.png  used on input line 307.
+(pdftex.def)             Requested size: 308.06367pt x 114.03917pt.
+[24
+
+ <./images/case2.png>] [25
+
+] [26
+
+]
+\tf@nav=\write7
+\openout7 = `main.nav'.
+
+\tf@toc=\write8
+\openout8 = `main.toc'.
+
+\tf@snm=\write9
+\openout9 = `main.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 321.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 321.
+(./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 321.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 321.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 28511 strings out of 480608
+ 567527 string characters out of 5905572
+ 1133139 words of memory out of 5000000
+ 43624 multiletter control sequences out of 15000+600000
+ 549421 words of font info for 84 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 58i,15n,67p,794b,1980s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/Software/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:
+/Software/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><d:/
+Software/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Softw
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/Software/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/Software/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><d:/Software/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Software/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmss10.pfb><d:/Software/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmss12.pfb><d:/Software/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmss8.pfb><d:/Software/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmss9.pfb><d:/Software/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmssi10.pfb><d:/Software/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmssi12.pfb><d:/Software/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mssi17.pfb><d:/Software/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi
+8.pfb><d:/Software/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb
+><d:/Software/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/
+Software/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><d:/Softwa
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/Software/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/Software/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><d:/Software/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on main.pdf (26 pages, 18388390 bytes).
+PDF statistics:
+ 3303 PDF objects out of 3580 (max. 8388607)
+ 1935 compressed objects within 20 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 6412 words of extra memory for PDF output out of 10000 (max. 10000000)
+

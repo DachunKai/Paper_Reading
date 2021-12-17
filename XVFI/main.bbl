@@ -1,0 +1,98 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{jiang2018super}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=JH}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Huaizu},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Deqing},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=JV}{%
+         family={Jampani},
+         familyi={J\bibinitperiod},
+         given={Varun},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=YMH}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Ming-Hsuan},
+         giveni={M\bibinithyphendelim H\bibinitperiod},
+      }}%
+      {{hash=LME}{%
+         family={Learned-Miller},
+         familyi={L\bibinithyphendelim M\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kautz},
+         familyi={K\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JH+1}
+    \strng{fullhash}{JHSDJVYMHLMEKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}
+    \field{pages}{9000\bibrangedash 9008}
+    \field{title}{Super slomo: High quality estimation of multiple intermediate
+  frames for video interpolation}
+    \field{year}{2018}
+  \endentry
+
+  \entry{hur2019iterative}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=HJ}{%
+         family={Hur},
+         familyi={H\bibinitperiod},
+         given={Junhwa},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Roth},
+         familyi={R\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJRS1}
+    \strng{fullhash}{HJRS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition}
+    \field{pages}{5754\bibrangedash 5763}
+    \field{title}{Iterative residual refinement for joint optical flow and
+  occlusion estimation}
+    \field{year}{2019}
+  \endentry
+\enddatalist
+\endinput

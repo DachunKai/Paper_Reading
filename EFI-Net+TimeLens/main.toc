@@ -1,0 +1,5 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Paper 1: EFI-Net: Video Frame Interpolation from Fusion of Events and Frames}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Paper 2: Time Lens: Event-based Video Frame Interpolation}{18}{0}{2}
